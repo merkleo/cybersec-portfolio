@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "bradlc.vscode-tailwindcss",
+    "eamodio.gitlens",
+    "ms-vscode-remote.remote-containers",
+    "PKief.material-icon-theme",
+    "christian-kohler.path-intellisense"
+  ]
+}
